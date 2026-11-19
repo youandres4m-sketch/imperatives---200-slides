@@ -1,0 +1,6 @@
+{
+  "name": "English Imperatives Slideshow",
+  "description": "Minimalist fullscreen classroom slideshow to teach 200 English imperatives to Spanish-speaking students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
